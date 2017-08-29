@@ -1,0 +1,22 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddybluez/Bamazon.git"
+  },
+  "author": "teddybluez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddybluez/Bamazon/issues"
+  },
+  "homepage": "https://github.com/teddybluez/Bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
